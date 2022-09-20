@@ -7,7 +7,7 @@ added script to idempotently install it as a daily cron task.
 ## Installation
 
 ```
-curl -fsS https://raw.githubusercontent.com/grantovich/homebrew-notifier/master/install.sh | sh
+curl -fsS https://raw.githubusercontent.com/best-family/homebrew-notifier/master/install.sh | sh
 ```
 
 ## Contributing
